@@ -14,3 +14,9 @@ Submitted huge amount.
 
 ##GIT & GITHub Training
 blah blah blah
+
+## GIT comparisons
+Adding GIT Comparisons.
+
+##GITHub Content
+Comparison with Repo
