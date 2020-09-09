@@ -7,7 +7,10 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 #Starter Web Project
+This is git project for us to be used as sample one.
 
 ##Introduction
+Submitted huge amount.
 
 ##GIT & GITHub Training
+blah blah blah
